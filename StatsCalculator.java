@@ -1,26 +1,3 @@
-
-Week 6 Programming Assignment - Final Version
-Brandon Smith
-•
-Mar 8
-100 points
-Due 8:30 AM
-
-Week 6 Programming Assignment
-Google Docs
-Class comments
-Your work
-Missing
-
-Caroline Nielsen - Week 6 Programming Assignment Rubric
-Google Sheets
-
-GitHub - nielsencaroline/Week-6-project
-https://github.com/nielsencaroline/Week-6-project
-
-StatsCalculator.java
-Java
-Private comments
 import java.util.Arrays;
 /**
  * @file StatsCalculator.java

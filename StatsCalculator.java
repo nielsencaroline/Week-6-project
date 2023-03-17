@@ -113,7 +113,7 @@ public class StatsCalculator {
         else if(sortedValues.length % 4 == 0) {
             thirdQuartile = sortedValues[(int) (sortedValues.length * .75)-1];
         }
-        else{ // odd length
+        else{
             thirdQuartile = sortedValues[(sortedValues.length / 4) + (sortedValues.length/2)+1];
         }
         return thirdQuartile;

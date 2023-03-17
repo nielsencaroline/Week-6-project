@@ -1,4 +1,12 @@
 import java.util.Arrays;
+/**
+ * @file StatsCalculator.java
+ * @Date 3/17/23
+ * @Author Caroline Nielsen
+ *
+ * @Description uses an array to calculate minimum, first quartile, median, third quartile, maximum, and mean
+ */
+
 public class StatsCalculator {
     /**
      * @description creates double array of values
